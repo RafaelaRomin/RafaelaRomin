@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaRomin&layout=compact&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaRomin&layout=compact&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/RafaelaRomin/github-readme-stats)
 
 #
 <div style="display: inline_block"><br>
