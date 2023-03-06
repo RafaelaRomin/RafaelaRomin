@@ -1,7 +1,6 @@
 ### Olá 👋
 
 
-- 🌱 I’m currently learning ...
 
 <div>
   <a href="https://github.com/RafaelaRomin">
