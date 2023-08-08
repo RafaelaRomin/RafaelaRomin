@@ -1,5 +1,7 @@
 ### Olá! 👋
 
+☑️ Me chamo Rafaela, sou estudante de Análise Desenvolvimento de Sistemas, estou aprimorando minhas habilidades e conhecimentos para construir uma carreira na área de desenvolvimento de software! 🖥️
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaRomin&layout=compact&langs_count=8&theme=dark)](https://github.com/RafaelaRomin)
 
 ### 🖥️
