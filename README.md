@@ -4,7 +4,7 @@
 
 📚 Estou evoluindo minhas habilidades e conhecimentos para construir uma carreira sólida na área de desenvolvimento de software. 
 
-🖥️ Realizo cursos complementares mais específicos para atuar no desenvolvimento com C# | .Net, e construindo projetos pessoais para exercitar a experiência prática dos estudos.
+🖥️ Realizo cursos com ênfase em desenvolvimento com C# | .Net, e construindo projetos pessoais para exercitar a experiência prática dos estudos.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaRomin&layout=compact&langs_count=8&theme=dark)](https://github.com/RafaelaRomin)
 
