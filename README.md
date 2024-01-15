@@ -1,10 +1,10 @@
 ### Olá! 👋
 
-☑️ Me chamo Rafaela, e sou estudante de Análise Desenvolvimento de Sistemas.
+☑️ Me chamo Rafaela, e sou Desenvolvedora .Net 
 
 📚 Estou evoluindo minhas habilidades e construindo uma carreira sólida na área de desenvolvimento de software. 
 
-🖥️ Realizo cursos com ênfase em desenvolvimento com C# | .Net, e construindo projetos pessoais para exercitar a experiência prática.
+🖥️ Participo de encontros, discussões com ênfase em desenvolvimento com C# | .Net, e desenvolvo projetos pessoais para exercitar a experiência prática.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaRomin&layout=compact&langs_count=8&theme=dark)](https://github.com/RafaelaRomin)
 
