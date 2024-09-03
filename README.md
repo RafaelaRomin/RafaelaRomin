@@ -4,7 +4,7 @@
 
 📚 Estou evoluindo minhas habilidades e construindo uma carreira sólida na área de desenvolvimento de software. 
 
-🖥️ Participo de projetos, encontros, discussões com ênfase em desenvolvimento com C# | .Net, e desenvolvo projetos pessoais para exercitar a experiência prática de maneira constante.
+🖥️ Participo de projetos e encontros com ênfase em desenvolvimento com C# | .Net, e desenvolvo projetos pessoais para exercitar a experiência prática de maneira constante.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaRomin&layout=compact&langs_count=8&theme=dark)](https://github.com/RafaelaRomin)
 
