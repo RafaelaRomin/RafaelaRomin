@@ -1,10 +1,10 @@
-### Olá! 👋
+### Hey there! 👋
 
-☑️ Me chamo Rafaela, e sou Desenvolvedora .Net 
+☑️ I am a .Net Developer  
 
-📚 Estou evoluindo minhas habilidades e construindo uma carreira sólida na área de desenvolvimento de software. 
+📚 I am improving my skills and striving to build a solid career in software development.  
 
-🖥️ Participo de projetos e encontros com ênfase em desenvolvimento com C# | .Net, e desenvolvo projetos pessoais para exercitar a experiência prática de maneira constante.
+🖥️ Beyond work, I participate in projects and meetups focused on C# | .Net development, and I work on personal projects to constantly practice and enhance my practical experience.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaRomin&layout=compact&langs_count=8&theme=dark)](https://github.com/RafaelaRomin)
 
