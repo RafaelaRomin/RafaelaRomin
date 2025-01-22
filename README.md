@@ -1,8 +1,8 @@
 ### Hey there! 👋
 
-☑️ I am a .Net Developer  
+☑️ I'm a .Net Developer  
 
-📚 I am improving my skills and striving to build a solid career in software development.  
+📚 I'm always improving my skills and striving to build a solid career in software development.  
 
 🖥️ Beyond work, I participate in projects and meetups focused on C# | .Net development, and I work on personal projects to constantly practice and enhance my practical experience.  
 
